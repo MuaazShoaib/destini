@@ -2,4 +2,4 @@
 
 A simple app to practice what I have learned from flutter course.
 
-![App Screenshot](https://raw.githubusercontent.com/MuaazShoaib/magic_8_ball/main/screenshots/magic_8_ball.jpg)
+![App Screenshot](https://raw.githubusercontent.com/MuaazShoaib/destini/main/screenshots/destini.jpg)
