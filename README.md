@@ -1,2 +1,5 @@
-# destini
-Destini. A basic app in flutter to practice what I have learn form course
+# Destini
+
+A simple app to practice what I have learned from flutter course.
+
+![App Screenshot](https://raw.githubusercontent.com/MuaazShoaib/magic_8_ball/main/screenshots/magic_8_ball.jpg)
